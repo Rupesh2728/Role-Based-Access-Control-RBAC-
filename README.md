@@ -89,7 +89,7 @@
 - Please take a moment to watch and gain an understanding of the platform's offerings.
 
 
-https://github.com/user-attachments/assets/304412d8-2cda-417a-959f-f3ef5620bd9f
+https://github.com/user-attachments/assets/33fd9cbb-0cf3-4bf2-963f-7bd8317299d4
 
 <p align="center">
   <img src="./Client/public/Welcome_email.png" width="300" height="600" alt="Welcome Email!!"/>
