@@ -1,6 +1,6 @@
 <h1 align="center">Role Based Access Control Dashboard (RBAC)</h1>
-<h3 align="center">The application provides a secure and user-friendly interface where administrators can assign roles,define hierarchies, define permissions, and manage users efficiently.</h3>
-<h4 align="center">Each and every user has certain limits on their role to perform actions </a></h3>
+<h4 align="center">The application provides a secure and user-friendly interface where administrators can assign roles,define hierarchies, define permissions, and manage users efficiently.</h4>
+
 
 
 <h2 align="left">Tech Stack and Tools :</h2>
