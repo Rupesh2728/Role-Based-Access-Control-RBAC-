@@ -91,6 +91,11 @@
 
 https://github.com/user-attachments/assets/304412d8-2cda-417a-959f-f3ef5620bd9f
 
+<p align="center">
+  <img src="./Client/public/Welcome_email.png" width="300" height="600" alt="Welcome Email!!"/>
+  <img src="./Client/public/Welcome_email2.png" width="300" height="600" alt="Welcome Email!!"/>
+</p>
+
 
 <h2 align="left">Installation</h2>
 <h3 align="center">To get started with this project, clone the repository or download the zip file.</h3>
