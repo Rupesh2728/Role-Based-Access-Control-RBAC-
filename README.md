@@ -89,9 +89,7 @@
 - Please take a moment to watch and gain an understanding of the platform's offerings.
 
 
-  
-https://github.com/user-attachments/assets/e12361c7-7af9-4a3a-85d1-58417c3daa9b
-
+https://github.com/user-attachments/assets/304412d8-2cda-417a-959f-f3ef5620bd9f
 
 
 <h2 align="left">Installation</h2>
